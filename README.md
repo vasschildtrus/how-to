@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Photographers advise where to look for pictures for inspiration
+## Best Tumblers for Professionals
 
-You can use the [editor on GitHub](https://github.com/vasschildtrus/how-to/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](pictures1.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We asked young Russian photographers who had managed to win recognition to make a list of favorite resources that inspire their creativity.
 
-### Markdown
+Eric Panov
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Branching](pictures2.png)
 
-```markdown
-Syntax highlighted code block
+I often use a tape of toggle switches, which are signed for the reference shootings, but lately for me the toggle switch has fallen into the background, now there are many interesting installations and public.
 
-# Header 1
-## Header 2
-### Header 3
+I don't know whose toggle switch it is, I can only assume that it is made by a Japanese or a Chinese or a Korean - there is no information. On the other hand, there is an excellent selection of shots with lookbooks, fashion shoots and their interpretation. Everything is in a single, fairly graphic context.
 
-- Bulleted
-- List
+![Branching](pictures3.png)
 
-1. Numbered
-2. List
+Probably, many people know it as a site with art in all its manifestations. I discovered a lot of Japanese artists and graphic artists on it.
 
-**Bold** and _Italic_ and `Code` text
+A great installation by a guy named Doug Abraham, who makes collages from famous advertising campaigns, fashion shooting, combining them with screenshots from movies, porn footage, and anything at all. It often looks much cooler than the original shootings.
 
-[Link](url) and ![Image](src)
-```
+![Branching](pictures4.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A forum that is wildly uncomfortable to search and view, but it seems to have everything that has ever been associated with the world of fashion: from the archives of advertising campaigns over the years to the most recent shootings that have not yet been published on other similar resources.
 
-### Jekyll Themes
+I browse "VKontakte" exclusively for the sake of some public. This is one of the few: photos, spaces, installations - good content.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vasschildtrus/how-to/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Branching](pictures5.png)
 
-### Support or Contact
+Asia, Africa, "quality" and sexual message, people, things and nature, inspiration.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My favorite tumbler. This is my childhood - something I was looking at and dreaming about. Where I am now, it's all here.
+
+![Branching](pictures6.png)
+
+My friend's page. I miss you.
+
+A great informative tumbler, interesting for every man.
+
+![Branching](pictures7.png)
+
+Works of Alex, a very talented guy.
+ 
+A real inspiration. Any time when it's sad and boring, I check this page and think how cool hanging out before.
